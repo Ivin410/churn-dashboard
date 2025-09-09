@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "First commit of my churn dashboard"
+# Follow the instructions on your new GitHub repo page to push the code.
+# It will look something like this:
+git remote add origin https://github.com/Ivin410/churn-dashboard.git
+git branch -M main
+git push -u origin main
